@@ -3619,7 +3619,7 @@
    "repo": "https://github.com/MarcGoudy/guru-600",
    "redistributable": true,
    "redistributable_reason": "licence GPL-3.0 allows redistribution",
-   "mirror_url": "https://github.com/f00br/mama-firmware/releases/download/packages/guru600--guru600-1.0.2+d9c0fd52.fwsc",
+   "mirror_url": "https://github.com/f00br/mama-firmware/releases/download/packages/guru600--guru600-1.0.2%2Bd9c0fd52.fwsc",
    "source_mirror_url": "https://github.com/f00br/mama-firmware/releases/download/sources/guru600--source.tar.gz"
   },
   {
@@ -6011,7 +6011,7 @@
    "repo": "https://github.com/hitosu/ptfm",
    "redistributable": true,
    "redistributable_reason": "licence GPL-3.0 allows redistribution",
-   "mirror_url": "https://github.com/f00br/mama-firmware/releases/download/packages/ptfm--ptfm-0.26+91deae9e.fwsc",
+   "mirror_url": "https://github.com/f00br/mama-firmware/releases/download/packages/ptfm--ptfm-0.26%2B91deae9e.fwsc",
    "source_mirror_url": "https://github.com/f00br/mama-firmware/releases/download/sources/ptfm--source.tar.gz"
   },
   {
@@ -6172,7 +6172,7 @@
    "repo": "https://github.com/joshbartlettband-web/felucca-rainbow",
    "redistributable": true,
    "redistributable_reason": "licence GPL-3.0 allows redistribution",
-   "mirror_url": "https://github.com/f00br/mama-firmware/releases/download/packages/rainbow--rainbow-1.1.5-rb+22156c96.fwsc",
+   "mirror_url": "https://github.com/f00br/mama-firmware/releases/download/packages/rainbow--rainbow-1.1.5-rb%2B22156c96.fwsc",
    "source_mirror_url": "https://github.com/f00br/mama-firmware/releases/download/sources/rainbow--source-snapshot-20261117.tar.gz"
   },
   {

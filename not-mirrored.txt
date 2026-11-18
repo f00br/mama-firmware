@@ -22,11 +22,6 @@ feluccawavetableodeathmo: FeluccaWavetableOdeathMod felucca by gybe808-dotcom
   why: licence 'not stated' does not grant redistribution; the app keeps the author URL
   author link: https://raw.githubusercontent.com/gybe808-dotcom/FeluccaWavetableOdeathMod/HEAD/firmware/felucca.fwsc
 
-fm-1-va-baud-girl: FM-1+VA (Baud Girl) 102--FM-1_102--2026- by Baud Girl
-  licence: not stated (free download; closed source)
-  why: licence 'not stated (free download; closed source)' does not grant redistribution; the app keeps the author URL
-  author link: https://baudgirl.com/fm1/firmware/FM-1+VA-102.fwsc
-
 fm1-genamb-genamb-rc-fws: FM1-genAMB genAMB-RC by Kayman18
   licence: not stated
   why: licence 'not stated' does not grant redistribution; the app keeps the author URL
@@ -51,11 +46,6 @@ learning-fm-smk-felucca: learning-fm-smk 0.4 by davidpryan
   licence: not stated (GitHub: NOASSERTION, see repo)
   why: licence 'not stated (GitHub: NOASSERTION, see repo)' does not grant redistribution; the app keeps the author URL
   author link: https://github.com/davidpryan/learning-fm-smk/releases/download/v0.4/felucca-learn-0.4.fwsc
-
-shrub: SHRUB 1.00 by Xfer Inc. (Steve Duda)
-  licence: proprietary: 'copyright 2026 Xfer Inc. All rights reserved' (free download offered on the install page)
-  why: licence 'proprietary: 'copyright 2026 Xfer Inc. All rights reserved' (free download offered on the install page)' does not grant redistribution; the app keeps the author URL
-  author link: https://shrub.audio/editor/firmware/SHRUB.fwsc
 
 vesper: VESPER 2.0.2 by Fat Cat Studios
   licence: not stated
